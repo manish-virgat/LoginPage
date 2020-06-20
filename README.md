@@ -1,7 +1,7 @@
 # LoginPage
 ## This is a animated login page.
 ### Click on Netlify icon below to go to hosted page
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ad17e0a-aff1-4fe6-9394-93796fa95b84/deploy-status)](https://app.netlify.com/sites/animatedlogin-mv/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ad17e0a-aff1-4fe6-9394-93796fa95b84/deploy-status)](https://animatedlogin-mv.netlify.app/)
 
 # Technology Used
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
