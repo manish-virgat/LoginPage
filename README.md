@@ -1,6 +1,6 @@
 # LoginPage
 ## This is a animated login page.
-
+### Click on Netlify icon below to go to hosted page
 
 # Technology Used
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
